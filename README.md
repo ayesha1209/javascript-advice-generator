@@ -9,7 +9,7 @@ Advice generator app using the [Advice Slip API](https://api.adviceslip.com/)
 ### Links
 
 - Code URL: (https://github.com/ayesha1209/javascript-advice-generator.git)
-- Live Site URL: (https://rimshub.github.io/javascript-advice-generator/)
+- Live Site URL: (https://ayesha1209.github.io/javascript-advice-generator/)
 
 ## Overview
 
